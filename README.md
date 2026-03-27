@@ -1,2 +1,3 @@
-1- Arquivo index.js é um desafio proposto pelo curso "Formação Lógica de Programação" da DIO.
-<br> Primeiro exercício para criar minha base de aprendizado em lógica de programação.
+1- Desafio index.js é o primeiro desafio proposto pelo curso "Formação Lógica de Programação" da DIO.
+<br>
+2- Desafio "Calculadora de Partidas Rankeadas" é o segundo desafio proposto pelo curso "Formação Lógica de Programação" da DIO.
