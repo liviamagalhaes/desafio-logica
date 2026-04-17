@@ -5,7 +5,7 @@ Dominando a base do desenvolvimento através da resolução de problemas analít
 ---
 
 <p align="center">
-  <img src="https://example.com/caminho/para/sua/imagem_0.png" alt="Capa do Repositório de Lógica" width="100%">
+  <img src="https://github.com/liviamagalhaes/desafio-logica/blob/main/imagens/imagem_capa.png" alt="Capa do Repositório de Lógica" width="100%">
   </p>
 
 ## Sobre o Repositório
